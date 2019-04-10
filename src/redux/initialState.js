@@ -1,0 +1,38 @@
+export const initialState={
+	register_user:{
+		insurances:[],
+		streetAddress: "",
+		aptNumber:"",
+		zipcode:"",
+		isMailingAddressSame:"",
+		mailingAddress:{streetAddress:"",aptNumber:"",zipcode:""},
+		businessEnity:"",
+		cFloorNumber: "",
+		businessStartYear: "",
+		companyYearsOfExperience:"",
+		projectedAnnualRevenue: "",
+		website:"",
+		businessEnity:"",
+		firstName:"",
+		lastName:"",
+		phoneNumber:"",
+		email:"",
+		typeOfBuilding:"",
+		buildingConstructionType:"",
+		automaticSprinklers:"",
+		fireAlaram:"",
+		centralBurglarAlaramSystem:"",
+		totalStories:"",
+		constructionYear:"",
+		bppReplacementCost:"",
+		addClaims:[{date:"2016-08-24",amount:"150"}],
+		claimDate:'',
+		claimAmount:'',
+		terrorism: "",
+		policyStartDate: "",
+		specialRequirements: "",
+		step:""
+
+	},
+
+}

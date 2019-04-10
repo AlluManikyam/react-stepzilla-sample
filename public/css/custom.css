@@ -1,0 +1,261 @@
+body {
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: sans-serif !important;
+}
+
+.panel-success {
+  width: 84%;
+  margin-left: 8%;
+}
+.panel-primary,
+.panel-info {
+  width: 84%;
+  margin-left: 8%;
+}
+
+.pull-left {
+  margin-left: 8%;
+}
+.pull-right {
+  margin-right: 8%;
+}
+.mb-25 {
+  margin-bottom: 25px !important;
+}
+.d-flex {
+  display: flex !important;
+}
+.alignCenter {
+  align-items: center;
+}
+.dropdown-select {
+  width: 71.6% !important;
+  margin-left: 16px;
+}
+.mt-8 {
+  margin-top: 8px !important;
+}
+.mt-15 {
+  margin-top: 15px !important;
+}
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+.register {
+  margin-left: 48%;
+  width: 120px;
+}
+
+.form-horizontal .control-label {
+  text-align: left !important;
+}
+.m-8 {
+  margin: 8px !important;
+}
+.min-ht-147 {
+  min-height: 147px;
+}
+
+.s-insurance {
+  width: 14% !important;
+  height: 100px !important;
+  margin-left: 10px !important;
+}
+
+.s-insurance1 {
+  width: 100% !important;
+  height: 100px !important;
+  margin-left: 10px !important;
+}
+
+/* Styles for Application  */
+.p-0 {
+  padding: 0px !important;
+}
+.p-7 {
+  padding: 7px !important;
+}
+.addInsuranceButton {
+  width: 120px;
+  min-height: 110px;
+  font-size: 15px !important;
+}
+.mb-12 {
+  margin-bottom: 12px !important;
+}
+.btn-default:hover {
+  background-color: #438bd7 !important;
+  color: white !important;
+  font-size: 15px !important;
+}
+
+.mr-0 {
+  margin-right: 0px !important;
+}
+.mw-10 {
+  max-width: 10px !important;
+}
+.ml-5 {
+  margin-left: 5px !important;
+}
+.ml-15 {
+  margin-left: 15px !important;
+}
+.ml-25 {
+  margin-left: 25px !important;
+}
+.row-info {
+  margin: 10px 50px !important;
+  text-align: right !important;
+}
+.labelmap {
+  font-weight: 400 !important;
+  font-size: 16px !important;
+  text-align: right;
+}
+.entity-type {
+  width: 47% !important;
+  height: 40px !important;
+  font-weight: 400 !important;
+}
+.select-label {
+  margin-left: 4.5% !important;
+}
+.label-heading {
+  font-weight: 400 !important;
+  font-size: 16px !important;
+}
+.labelInput {
+  width: 65% !important;
+  height: 40px !important;
+  font-weight: 400 !important ;
+}
+.rectangle {
+  padding: 12px;
+  padding-bottom: 0;
+  width: 100%;
+  min-height: 50px;
+  border: 1px solid #438bd7;
+  cursor: text;
+}
+
+.rect-block {
+  width: 100%;
+  min-height: 50px;
+  border: 1px solid #f0f0f0;
+  cursor: text;
+}
+
+.input-text {
+  width: 45% !important;
+  height: 40px !important;
+  font-weight: 400 !important;
+}
+
+.pinfo-text {
+  width: 74% !important;
+  height: 40px !important;
+  font-weight: 400 !important;
+}
+
+.isMail {
+  width: 120px;
+  min-height: 70px;
+  font-size: 15px !important;
+}
+
+.custom-table {
+  width: 80% !important;
+  margin: 0px auto !important;
+}
+.fr {
+  float: right !important;
+}
+.fs-25 {
+  font-size: 25px !important;
+}
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+.text-right {
+  text-align: right !important;
+}
+
+.multi-step {
+  width: 108% !important;
+}
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  border: 0 !important;
+}
+
+.part {
+  width: 20%;
+}
+.fs-14 {
+  font-size: 14px !important;
+}
+
+ol.progtrckr li span {
+  padding: 0 0.5rem !important;
+}
+.reviewText {
+  width: 100%;
+  min-height: 50px;
+  border: 1px solid #f0f0f0;
+  /* margin-left:15px; */
+  padding-left: 15px;
+  font-weight: 500 !important;
+  font-size: 15px;
+  font-family: Open Sans, sans-serif;
+}
+.reviewTitle {
+  font-weight: 500 !important;
+  font-size: 18px;
+}
+.d-flex {
+  display: flex !important;
+}
+
+.page-align {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.page-amount {
+  display: flex !important;
+  align-items: center !important;
+  margin-left: 25px;
+}
+
+.page-header {
+  margin: 40px 0 0px !important;
+}
+
+.ht-72 {
+  height: 72px !important;
+}
+
+.pos-relative {
+  position: relative;
+}
+
+.pos-absolute {
+  position: relative;
+  top: -5px;
+  right: 24px;
+  color: #fff;
+  cursor: pointer;
+}
+.btn-size {
+  width: 100px !important;
+}
+.ins-padding {
+  padding: 5px 20px 5px 5px !important;
+}
